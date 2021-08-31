@@ -9,6 +9,8 @@
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+
         <!-- Styles -->
         <style>
             html, body {
@@ -81,18 +83,16 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Desenvolvimento Web II
                 </div>
 
-                <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://vapor.laravel.com">Vapor</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                <div class="d-grid gap-2">
+                    <a type="button" class="btn btn-primary btn-lg" href="http://127.0.0.1:8000/produtos">Cadastro de Produtos</a>
+                </div>
+                <br>
+                </br>
+                <div class="nomeAluno" style="font-size: 20px">
+                    Aluno: André Vinícius Matioski
                 </div>
             </div>
         </div>
